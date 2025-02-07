@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  }
+
+.navbar-brand {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.home-container {
+  display: grid;
+  grid-template-columns: 1fr 3fr; /* 30% for the right side, 70% for the left side */
+  gap: 20px;
+  background: rgb(249, 228, 243);
+  padding: 15px /* Adjust the gap between columns */
+}
+
+.right-panel {
+  margin:50px 0px;
+  flex: 0 0 30%; /* 30% width for the right side */
+  background-color: #b3d1e1; /* Light background color */
+  padding: 30px; 
+  gap: 20px;/* Padding inside the panel */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  display: flex;
+  flex-direction: column;
+  gap:30px;/* Shadow for depth */
+}
+
+.left-panel {
+  grid-column: 2 / 3; /* Span from the second column to the third */
+}
+
+.filter-container {
+  background-color: #ffe6fb; /* Pale pink background color */
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  font-family: 'Courier New', Courier, monospace; /* Indie/Vintage font */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Soft shadow */
+  border: 1px solid #e0aaff; /* Light purple border */
+}

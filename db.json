@@ -1,0 +1,94 @@
+{
+  "products": [
+    { 
+      "id": 1, 
+      "name": "Mug - HOPE.", 
+      "price": 100, 
+      "onSale": true, 
+      "image": "/photos/4090513499.jpg", 
+      "description": "Description of Product 1",
+      "category": "mug" 
+    },
+    { 
+      "id": 2, 
+      "name": "Mug - Mechanical Rainbow", 
+      "price": 200, 
+      "onSale": false, 
+      "image": "/photos/4090572898.jpg", 
+      "description": "Description of Product 2",
+      "category": "mug"  
+    },
+    { 
+      "id": 3, 
+      "name": "T-shirt - HOPE.", 
+      "price": 150, 
+      "onSale": true, 
+      "image": "/photos/4090572977.jpg", 
+      "description": "Description of Product 3",
+      "category": "t-shirt"  
+    },
+    { 
+      "id": 4, 
+      "name": "Totebag - Mirror", 
+      "price": 180, 
+      "onSale": false, 
+      "image": "/photos/4090576705.jpg", 
+      "description": "Description of Product 4",
+      "category": "totebag"  
+    },
+    { 
+      "id": 5, 
+      "name": "Totebag - Rainbow", 
+      "price": 220, 
+      "onSale": true, 
+      "image": "/photos/4090576707.jpg", 
+      "description": "Description of Product 5",
+      "category": "totebag"  
+    },
+    { 
+      "id": 6, 
+      "name": "Keychain - Mirror", 
+      "price": 130, 
+      "onSale": false, 
+      "image": "/photos/4090592451.jpg", 
+      "description": "Description of Product 6",
+      "category": "keychain"   
+    },
+    { 
+      "id": 7, 
+      "name": "T-shirt - SEVDA'", 
+      "price": 190, 
+      "onSale": true, 
+      "image": "/photos/4090621616.jpg", 
+      "description": "Description of Product 7",
+      "category": "t-shirt"   
+    },
+    { 
+      "id": 8, 
+      "name": "T-shirt - Mirror", 
+      "price": 250, 
+      "onSale": false, 
+      "image": "/photos/4090651088.jpg", 
+      "description": "Description of Product 8",
+      "category": "t-shirt"   
+    },
+    { 
+      "id": 9, 
+      "name": "Keychain - Mechanical Rainbow", 
+      "price": 160, 
+      "onSale": true, 
+      "image": "/photos/4090652029.jpg", 
+      "description": "Description of Product 9", 
+      "category": "keychain"  
+    },
+    { 
+      "id": 10, 
+      "name": "Sticker set", 
+      "price": 300, 
+      "onSale": false, 
+      "image": "/photos/4090709554.jpg", 
+      "description": "Description of Product 10",
+      "category": "sticker"   
+    }
+  ]
+}

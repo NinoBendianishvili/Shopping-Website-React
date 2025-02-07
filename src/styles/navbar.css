@@ -1,0 +1,28 @@
+.navbar {
+  background-color: #a07a99;
+  border-bottom: 1px solid #e0cfcf;
+  padding: 10px 20px;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  color: #f9f3ff;
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.navbar-brand {
+  font-size: 2.0rem;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 0px 30px;
+  width: 300px;
+  overflow-wrap: break-word;
+}
+
+.nav-link,
+.navbar .nav-link {
+  color: #ffffff; 
+  font-weight: bold;
+  margin-right: 20px;
+}
+
